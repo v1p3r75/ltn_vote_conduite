@@ -1,0 +1,13 @@
+#page_content .form-sec .end_in {width: 90%;margin: 2% auto;padding: .5%;background-color: #6D95B5;text-align: center;color: white;font-size: 18px;font-weight: bold;}
+#page_content .form-sec .two_choice div{width: 40%;height: 90px;margin: 6% auto;background-color: #255C94;text-align: center;font-size: 1.7rem;font-weight: bolder; }
+#page_content .form-sec .two_choice div a {color: cornsilk; }
+#page_content .form-sec .two_choice div:first-child {line-height:1.6 }
+#page_content .form-sec .two_choice div:last-child {line-height: 3}
+
+/* NOTE: INSCRIRE UN ENSEIGNANT */
+
+#page_content .form_to_sign-in input {height: 50px; border-radius: 15px;background-color: #DDE5EC;padding: 1%;margin:2.4% 16% ;outline: none;border: none;display: block;width: 40%; }
+#page_content .form_to_sign-in button {width: 20%;border: none;outline: none;background-color: #255C94;text-align: center;font-size: 1.7rem;font-weight: bolder;height: 67px; border-radius: 15px;padding: 1%;margin:2.4% 1% ;color: white}
+#page_content .form_to_sign-in input[type="submit"] {color: white;font-weight: bold;font-size: 18px; }
+#page_content .form-sec .two_choices div:first-child {line-height: 3}
+#page_content .form-sec .two_choices div:last-child {line-height: 1.6}

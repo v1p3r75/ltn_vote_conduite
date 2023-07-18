@@ -1,0 +1,19 @@
+#page_content {background-color: #CDCDCD;font-size: 16px;font-family: serif;width: 60%; left: 17%; }
+#page_content i:hover {color: white;transition: 500ms all}
+header {background-color: #1A4168;padding: 0 5%; }
+header .header-dep-1 {padding: 1% 0}
+header .header-dep-2 {padding-bottom: 1%}
+header .search-div {background-color: #255C94;border-radius: 30px;height: 56px;padding: 0 2%;overflow: hidden;}
+header .search-div input {border: none;background-color: inherit;width: 100%;height: 100%;color: white;}
+header .search-div i {font-size: 24px;text-align: center;margin: auto;color: #1A4168; }
+header .id-log-div {margin: 0 0 0 11%;}
+#page_content .connect_flags .connect-flag {width: 50%;height: 60px;background-color:#6D95B5;padding: 2%;border-radius: 15px;}
+#page_content .connect_flags .connect-flag p {text-align: center;font-family: serif;font-size: 16;font-weight: bold;color: white;}
+#page_content .form-sec {width: 75%;height: 500px;border-radius: 15px;border: 10px solid #6D95B5}
+#page_content .form-index select,.form-index input,#in_pop_up .second_sec input[type="submit"] {display: block;height: 50px;width: 51%;border: none; outline: none;border-radius: 15px;background-color: #DDE5EC;padding: 2%;margin: 3% auto;}
+#page_content .form-index select {width: 55%;height: 77px;margin: 10% auto 3% auto }
+#page_content .form-index input[type="submit"],#in_pop_up .second_sec input[type="submit"] {background-color: #255C94;color: white;font-weight: bold;font-size: 18px;}
+footer {background-color:#1A4168;padding: 0 5%;margin: 5% 0 0 0 ;color: white}
+footer .footer-left {color: #255C94}
+footer .footer-left p:hover {color: white;transition: 500ms all}
+footer .footer-right img {width:100%;}

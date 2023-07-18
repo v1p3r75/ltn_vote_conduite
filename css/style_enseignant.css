@@ -1,0 +1,24 @@
+#page_content .form-sec {width: 80%;}
+#page_content .form-sec .end_in {width: 90%;margin: 2% auto;padding: .5%;background-color: #6D95B5;text-align: center;color: white;font-size: 18px;}
+#page_content .form-sec .onglet_vote {width: 90%;margin: auto;}
+#page_content .form-sec .onglet_vote div {background-color: #1A4168; font-size: 1.2rem;color: white;padding: 1%;opacity: .5}
+li {list-style-type: none;}
+#page_content .form-index .select-niv,.select-niv-2 {height: 50px; border-radius: 15px;background-color: #DDE5EC;padding: 2%;margin: 7% auto;text-align: center;font-size: 18px;font-weight: bold;line-height: 3}
+#page_content .form-index .select-niv-list {margin: auto;}
+#page_content .form-index .select-niv-list .under-list li {background: white;padding: 2%;margin: 2%; }
+#page_content .form-index .select-niv-list {width: 100%;background-color: #6D95B5;overflow: auto;height: 200px;top: 0;z-index: 5000}
+#page_content .select_note_if input,.select_note_if select,.textarea,.choisi {height: 50px; border-radius: 15px;background-color: #DDE5EC;padding: 1%;margin:4% auto ;outline: none;border: none;display: block;width: 50%; }
+#page_content .select_note_if select {width: 52%;height: 68px; }
+#page_content .select_note_if input[type="submit"] {    background-color: #255C94;color: white;font-weight: bold;font-size: 18px;}
+#page_content .send_to_princ textarea {margin: 4% 15%;border: none; outline: none;border-radius: 15px;background-color:#DDE5EC;padding: 2%;}
+
+#in_pop_up {width: 53%;left: 20.5%;background-color: #6D95B5;height: 100%;top: 10%;font-family: serif;overflow: auto;border-radius: 15px;}
+#in_pop_up .close_up i {right: 0;top: 2%;font-size: 4rem;font-weight: bolder;color: #c16161;}
+#in_pop_up .close_up i:last-child {top: 17%;color: #1A4168;}
+#in_pop_up .select-niv-list {border: 1px solid white;border-radius: 15px;padding: 1%; margin: 2%;width: 40%;font-size: 18px; }
+#in_pop_up .select-niv-list .under-list li {padding: 1%; background-color: #E6E6E6;margin: 2%;}
+#in_pop_up .alert_niv {text-align: center;font-size: 2rem;font-weight: bolder;color: #1A4168; }
+
+#in_pop_up .second_sec input[type="submit"] {bottom: -20%;left: 25%;}
+#in_pop_up .form_for_choosed {width: 60%;margin: auto;}
+#in_pop_up .form_for_choosed .choisi {width: 100%!important;}
